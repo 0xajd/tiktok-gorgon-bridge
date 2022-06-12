@@ -44,3 +44,6 @@ curl --request POST \
   "X-Khronos": "1570908582"
 }
 ```
+
+Contact for request: https://t.me/xajd0
+
